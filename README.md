@@ -8,7 +8,7 @@ A Business Intelligence solution designed to help workforce development programs
 
 <br>
 
-<img src="assets/hero-dashboard.png" alt="Dashboard Overview" width="100%"/>
+<img src="Assets/hero-dashboard.png" alt="Dashboard Overview" width="100%"/>
 
 <br>
 
@@ -132,13 +132,13 @@ Students failing one or more requirements are automatically classified as **Off 
 
 Provides a high-level view of cohort performance and engagement.
 
-<img src="assets/hero-dashboard.png" alt="Executive Dashboard" width="100%"/>
+<img src="Assets/hero-dashboard.png" alt="Executive Dashboard" width="100%"/>
 
 ### Student Monitoring
 
 Enables detailed analysis of attendance, coaching participation, and project completion.
 
-<img src="assets/student-details.png" alt="Student Details Dashboard" width="100%"/>
+<img src="Assets/student-details.png" alt="Student Details Dashboard" width="100%"/>
 
 ---
 
